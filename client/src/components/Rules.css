@@ -1,0 +1,23 @@
+
+.rules-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .rules-container h1 {
+    text-align: center;
+    color: #6a0dad;
+  }
+  
+  .rules-container h2 {
+    color: #6a0dad;
+    margin-top: 20px;
+  }
+  
+  .rules-container p {
+    margin: 10px 0;
+  }
+  
